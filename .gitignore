@@ -1,0 +1,5 @@
+.vscode
+.dependencies
+*.o
+*.out
+output
